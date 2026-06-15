@@ -1,5 +1,6 @@
 import { Navigate } from "react-router-dom";
 import { auth } from "../firebase";
+import ProtectedRoute from "./components/protectedroute";
 
 function ProtectedRoute({ children }) {
   if (!auth.currentUser) {
