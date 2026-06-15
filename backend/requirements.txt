@@ -6,4 +6,5 @@ opencv-python-headless
 matplotlib
 numpy
 pandas
+python-multipart
 
