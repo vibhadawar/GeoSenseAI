@@ -128,7 +128,7 @@ git clone https://github.com/YOUR_USERNAME/GeoSenseAI.git
 ```
 
 ```bash
-cd GeoSenseAI
+cd EarthObservationSystemm
 ```
 
 ---
